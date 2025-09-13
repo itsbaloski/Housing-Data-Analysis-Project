@@ -88,6 +88,3 @@ Install dependencies with:
 - Scatter plots showing relationships between key housing features and sale price.
 - A boxplot illustrating trends in sale prices by year built.
 
-## License
-
-This project is for educational and analytical purposes. You may modify and redistribute it as needed.
